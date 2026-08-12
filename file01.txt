@@ -3,4 +3,4 @@ git log --graph 图形化提交树
 | \ / 分支脉络
 线交汇---merge合并
 HEAD -> :当前所在分支是...
-origin/dev 远程仓库上的dev分支
+origin/dev 远程仓库上的dev分支，
