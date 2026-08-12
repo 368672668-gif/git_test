@@ -1,0 +1,12 @@
+vi 编辑器 
+eg: vi file01(不写txt也可) 就能编辑内容
+git log 查看文件上传到哪
+git status查看状态
+repository 仓库 
+stage暂存
+index暂存区
+untracked files 未跟踪状态
+changes to be committed 即将被提交
+先按ESc退出编辑模式，再输入:w 回车 只保存不退出
+想要保存并退出 按完esc后再输入：wq 回车
+
