@@ -4,3 +4,11 @@ git log --graph 图形化提交树
 线交汇---merge合并
 HEAD -> :当前所在分支是...
 origin/dev 远程仓库上的dev分支。
+git branch -d dev
+git checkout -b dev(新建的分支内容与写命令时我在的分支一致）
+-f 强制
+添加远程仓库
+git remote add origin [远程仓库地址]
+git remote 查看远程仓库
+git push [-f] [--set-upstream][远端名称/一般都是origin] [本地分支名]:[远端分支名]
+git branch -vv 显示更加详细的东西（关联关系）
